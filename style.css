@@ -1,0 +1,36 @@
+#kep{
+    height: 5%;
+    width: 5%;
+}
+
+#h1{
+    text-align: center;
+    padding-top: 2%;
+    border: 3px 3px black;
+    border-style: dashed;
+
+}
+
+#keret {
+    padding-left: 2%;
+    padding-top: 2%;
+   
+}
+
+#abc {
+    text-align: center;
+}
+
+#sutik {
+    text-align: center;
+    padding-top: 2%;
+    
+    
+}
+
+#eksuvoi {
+
+    text-align: center;
+    padding-top: 2%;
+    
+}
