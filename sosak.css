@@ -1,0 +1,42 @@
+.termekek_ul {
+    list-style-type: none;
+    padding: 0;
+}
+.termekek_li {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.termekek_li img {
+    max-width: 100px;
+    margin-right: 20px;
+}
+.termekek_li .product-info {
+    flex-grow: 1;
+}
+.termekek_li .product-info h3 {
+    margin: 0;
+    font-size: 18px;
+}
+.termekek_li .product-info p {
+    color: #555;
+}
+.termekek_li .price {
+    font-size: 18px;
+    color: #007BFF;
+    padding-right: 30px;
+}
+.termekek_li button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.termekek_li button:hover {
+    background-color: #218838;
+}
